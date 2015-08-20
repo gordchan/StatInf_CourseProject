@@ -9,7 +9,7 @@ output:
 
 # Overview
 
-This report will demonstrate the Central Limit Theorem (CLT) through a simulation exercise and a basic inferential data analysis.
+This report will demonstrate the Central Limit Theorem (CLT) through a simulation exercise.
 
 # Simulations
 
